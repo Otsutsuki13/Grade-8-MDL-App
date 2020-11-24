@@ -1,0 +1,23 @@
+D:\WPF\Grade 8 Modules\obj\Debug\Grade 8 Modules.csprojAssemblyReference.cache
+D:\WPF\Grade 8 Modules\obj\Debug\MainWindow.g.cs
+D:\WPF\Grade 8 Modules\obj\Debug\ModulesWindow.g.cs
+D:\WPF\Grade 8 Modules\obj\Debug\App.g.cs
+D:\WPF\Grade 8 Modules\obj\Debug\Grade 8 Modules_MarkupCompile.cache
+D:\WPF\Grade 8 Modules\obj\Debug\Grade 8 Modules_MarkupCompile.lref
+D:\WPF\Grade 8 Modules\bin\Debug\Grade 8 Modules.exe.config
+D:\WPF\Grade 8 Modules\bin\Debug\Grade 8 Modules.exe
+D:\WPF\Grade 8 Modules\bin\Debug\Grade 8 Modules.pdb
+D:\WPF\Grade 8 Modules\bin\Debug\MaterialDesignColors.dll
+D:\WPF\Grade 8 Modules\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\WPF\Grade 8 Modules\bin\Debug\MaterialDesignColors.pdb
+D:\WPF\Grade 8 Modules\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\WPF\Grade 8 Modules\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\WPF\Grade 8 Modules\obj\Debug\MainWindow.baml
+D:\WPF\Grade 8 Modules\obj\Debug\ModulesWindow.baml
+D:\WPF\Grade 8 Modules\obj\Debug\Grade 8 Modules.g.resources
+D:\WPF\Grade 8 Modules\obj\Debug\Grade_8_Modules.Properties.Resources.resources
+D:\WPF\Grade 8 Modules\obj\Debug\Grade 8 Modules.csproj.GenerateResource.cache
+D:\WPF\Grade 8 Modules\obj\Debug\Grade 8 Modules.csproj.CoreCompileInputs.cache
+D:\WPF\Grade 8 Modules\obj\Debug\Grade 8 Modules.csproj.CopyComplete
+D:\WPF\Grade 8 Modules\obj\Debug\Grade 8 Modules.exe
+D:\WPF\Grade 8 Modules\obj\Debug\Grade 8 Modules.pdb
